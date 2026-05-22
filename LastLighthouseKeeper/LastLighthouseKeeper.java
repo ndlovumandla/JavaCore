@@ -19,7 +19,7 @@ public class LastLighthouseKeeper {
         public Lighthouse(String name, String location, boolean isOperational, int yearsMaintained) {
             this.name = name;
             this.location = location;
-            this.isOperational = operational;
+            this.isOperational = isOperational;
             this.yearsMaintained = yearsMaintained;
         }
 
